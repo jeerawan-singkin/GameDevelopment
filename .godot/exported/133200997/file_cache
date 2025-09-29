@@ -16,7 +16,7 @@ res://lessons_reference/video_16/player/projectile/projectile.tscn::2a4ed3f5d223
 res://lessons_reference/video_16/player/simple_gun/blue_gun.tscn::be9a0d439165dba31b9e5f7df04b0d61::1759168345::res://.godot/exported/133200997/export-40a2ff8ae31734e5c394994157877ece-blue_gun.scn
 res://lessons_reference/video_16/player/bullet_3d.tscn::5b8d48ae100a5fefc256707273d56cbb::1759168344::res://.godot/exported/133200997/export-a6c10e0df0e462cd74955e0460992677-bullet_3d.scn
 res://lessons_reference/video_16/player/player.tscn::82b2ff78790c73da852ed7445cdfe01f::1759168345::res://.godot/exported/133200997/export-18d6549b40611af1c98b09f0b2f0c965-player.scn
-res://lessons_reference/video_16/game.tscn::dc7890f3349222830b6fb4cdb377cf4b::1759168674::res://.godot/exported/133200997/export-73b433b4f182aea2466901cf920b0304-game.scn
+res://lessons_reference/video_16/game.tscn::dc7890f3349222830b6fb4cdb377cf4b::1759169860::res://.godot/exported/133200997/export-73b433b4f182aea2466901cf920b0304-game.scn
 res://level/temporary_level.tscn::d86875b6ec68aabfb2a5ac81f31f0099::1759168345::res://.godot/exported/133200997/export-17acc6de905c0fdddb7e0bfe2862ed19-temporary_level.scn
 res://mob/smoke_puff/material/inner_smoke.tres::1d15a1f7b0e4b028bcbd9fa0ed4bebb0::1759168346::res://.godot/exported/133200997/export-04a5b640f866f1ddd9de42b8f1156e32-inner_smoke.res
 res://mob/smoke_puff/material/outer_smoke.tres::70c68183144118ac20b348f29aa8e34b::1759168346::res://.godot/exported/133200997/export-63f7678c11aaf689f06cc83969866906-outer_smoke.res
