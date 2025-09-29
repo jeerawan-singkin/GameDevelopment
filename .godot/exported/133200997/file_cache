@@ -11,12 +11,12 @@ res://lessons_reference/video_16/mob/bat/bat_model.tscn::8af22f8f5430eedf2e2e25a
 res://lessons_reference/video_16/mob/bat/bat_skin.tscn::c9b9877f437a3f50f197ebac1ca789ed::1759168344::res://.godot/exported/133200997/export-4600db95e26a3a96106a2305640f56d0-bat_skin.scn
 res://lessons_reference/video_16/mob/spawner/spawner_skin.tscn::578a0cb84338b9a73ddc91c89af886ab::1759168344::res://.godot/exported/133200997/export-e5cee35415c8d8a98ac20857be8dc54f-spawner_skin.scn
 res://lessons_reference/video_16/mob/mob.tscn::b33237cadf34d78809428007337bcfd8::1759168344::res://.godot/exported/133200997/export-1830d8ff8af535fd5670ac9defb06451-mob.scn
-res://lessons_reference/video_16/mob/spawner_3d.tscn::c19758fd19c62adfebd8f44e98be2025::1759174281::res://.godot/exported/133200997/export-448fd6a7d9c9b9f431ea6c62d11b2cec-spawner_3d.scn
+res://lessons_reference/video_16/mob/spawner_3d.tscn::c19758fd19c62adfebd8f44e98be2025::1759175197::res://.godot/exported/133200997/export-448fd6a7d9c9b9f431ea6c62d11b2cec-spawner_3d.scn
 res://lessons_reference/video_16/player/projectile/projectile.tscn::2a4ed3f5d2236c7518ac9769e62c58b1::1759168345::res://.godot/exported/133200997/export-c1ee86bec35cab3027831aacc1a5a864-projectile.scn
 res://lessons_reference/video_16/player/simple_gun/blue_gun.tscn::be9a0d439165dba31b9e5f7df04b0d61::1759168345::res://.godot/exported/133200997/export-40a2ff8ae31734e5c394994157877ece-blue_gun.scn
 res://lessons_reference/video_16/player/bullet_3d.tscn::5b8d48ae100a5fefc256707273d56cbb::1759168344::res://.godot/exported/133200997/export-a6c10e0df0e462cd74955e0460992677-bullet_3d.scn
-res://lessons_reference/video_16/player/player.tscn::82b2ff78790c73da852ed7445cdfe01f::1759174281::res://.godot/exported/133200997/export-18d6549b40611af1c98b09f0b2f0c965-player.scn
-res://lessons_reference/video_16/game.tscn::f8dc558360d6cdf03ba3358c0907b7c3::1759174302::res://.godot/exported/133200997/export-73b433b4f182aea2466901cf920b0304-game.scn
+res://lessons_reference/video_16/player/player.tscn::82b2ff78790c73da852ed7445cdfe01f::1759175196::res://.godot/exported/133200997/export-18d6549b40611af1c98b09f0b2f0c965-player.scn
+res://lessons_reference/video_16/game.tscn::f8dc558360d6cdf03ba3358c0907b7c3::1759175196::res://.godot/exported/133200997/export-73b433b4f182aea2466901cf920b0304-game.scn
 res://level/temporary_level.tscn::d86875b6ec68aabfb2a5ac81f31f0099::1759168345::res://.godot/exported/133200997/export-17acc6de905c0fdddb7e0bfe2862ed19-temporary_level.scn
 res://mob/smoke_puff/material/inner_smoke.tres::1d15a1f7b0e4b028bcbd9fa0ed4bebb0::1759168346::res://.godot/exported/133200997/export-04a5b640f866f1ddd9de42b8f1156e32-inner_smoke.res
 res://mob/smoke_puff/material/outer_smoke.tres::70c68183144118ac20b348f29aa8e34b::1759168346::res://.godot/exported/133200997/export-63f7678c11aaf689f06cc83969866906-outer_smoke.res
