@@ -1,1 +1,4 @@
 res://lessons_reference/video_16/game.tscn
+res://lessons_reference/video_16/player/player.tscn
+res://lessons_reference/video_16/mob/spawner_3d.tscn
+res://lessons_reference/video_16/level/platforms.tres

@@ -3,7 +3,7 @@
 [ext_resource type="Texture2D" uid="uid://ismvrp3hwx22" path="res://level/checkboard.png" id="1_hc616"]
 
 [resource]
-albedo_color = Color(0.286275, 0.682353, 0.427451, 1)
+albedo_color = Color(0.760549, 0.447926, 0.819009, 1)
 albedo_texture = ExtResource("1_hc616")
 uv1_triplanar = true
 uv1_triplanar_sharpness = 4.0
