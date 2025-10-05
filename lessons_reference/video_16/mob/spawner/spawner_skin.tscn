@@ -80,7 +80,6 @@ _data = {
 [node name="Spawner" type="Node3D"]
 
 [node name="Anchor" type="Node3D" parent="."]
-transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0.178748, 0)
 
 [node name="spawner" parent="Anchor" instance=ExtResource("1_ius6p")]
 
@@ -96,7 +95,7 @@ transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0.783957, 0)
 
 [node name="AnimationPlayer" type="AnimationPlayer" parent="."]
 libraries = {
-"": SubResource("AnimationLibrary_avbtx")
+&"": SubResource("AnimationLibrary_avbtx")
 }
 autoplay = "Idle"
 
